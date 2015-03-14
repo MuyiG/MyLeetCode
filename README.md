@@ -1,2 +1,2 @@
 # MyLeetCode
-My solutions for problems in leetcode.com, writen in Java.
+My solutions for problems in leetcode.com, written in Java.
