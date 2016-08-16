@@ -1,9 +1,9 @@
 # MyLeetCode
 My Java solutions for problems in https://leetcode.com/
 
-# Bit
+## Bit
 * 190-Reverse Bits
 * 191-Number of 1 Bits
 
-# String
+## String
 * 7-Reverse Integer
