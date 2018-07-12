@@ -19,6 +19,10 @@
 public class Solution extends VersionControl {
     /* The isBadVersion API is defined in the parent class VersionControl.
       boolean isBadVersion(int version); */
+
+    /**
+     * 本质上还是二分查找
+     */
     public int firstBadVersion(int n) {
         int low = 1;
         int high = n;
