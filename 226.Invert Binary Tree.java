@@ -8,7 +8,6 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-
 class Solution {
     // 1.recursive
     public TreeNode invertTree(TreeNode root) {
